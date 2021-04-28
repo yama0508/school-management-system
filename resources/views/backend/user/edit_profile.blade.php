@@ -137,14 +137,6 @@
         {{-- End Col Md-6 --}}
         </div> 
         {{-- End Row --}}
-        
-        
-        
-
-
-
-
-
 
                        <div class="text-xs-right">
                         <input type="submit" class="btn btn-rounded btn-info mb-5" value="Update">

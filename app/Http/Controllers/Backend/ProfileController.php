@@ -45,8 +45,6 @@ class ProfileController extends Controller
             'message' => 'User Profile Updated Successfully',
             'alert-type' => 'success'
         );
-
-
         return redirect()->route('profile.view')->with($notification);
     }
     //End Method
